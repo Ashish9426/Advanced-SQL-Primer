@@ -1,9 +1,6 @@
-onlinecourses\sql-01\day01\day01.md
+sql-01\day01\day01.md
                 
 # Advanced SQL Primer
-
-## GitLab Repository
-* https://gitlab.com/nilesh-g/sql-01
 
 ## Agenda
 * Transactions
